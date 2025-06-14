@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+header { background-color: #444; color: white; padding: 1rem; }
+nav button { margin-right: 0.5rem; }
+main { padding: 1rem; }
+.verse { margin-bottom: 1.5rem; }
+.comment { margin-top: 0.5rem; font-style: italic; }
+.qa { margin-top: 1rem; }
+.qa h4 { margin: 0.5rem 0 0.2rem; }
